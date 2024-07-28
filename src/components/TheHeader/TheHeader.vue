@@ -1,7 +1,7 @@
 <template>
-  <header class="px-2 border-b flex items-center justify-between h-14">
-    <a class="dark:text-purple-500 uppercase font-bold text-logo-main" href="#">SearchStax</a>
-    <nav class="hidden md:flex items-center">
+  <header class="flex h-14 items-center justify-between border-b px-2">
+    <a class="text-logo-main font-bold uppercase dark:text-purple-500" href="#">SearchStax</a>
+    <nav class="hidden items-center md:flex">
       <ul class="inline-flex items-center">
         <li><NavLink to="/">Home</NavLink></li>
         <li><NavLink to="about">About</NavLink></li>
@@ -15,7 +15,7 @@
         </li>
       </ul>
     </nav>
-    <button class="inline-block md:hidden text-gray-600">
+    <button class="inline-block text-gray-600 md:hidden">
       <svg
         xmlns="http://www.w3.org/2000/svg"
         class="h-6 w-6"
