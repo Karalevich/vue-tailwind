@@ -23,7 +23,8 @@
 </template>
 
 <script setup>
-import TheBanner from './TheBanner.vue'
+import TheBanner from '../TheBanner.vue'
 </script>
+116
 
 <style lang="scss" scoped></style>

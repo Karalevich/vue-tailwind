@@ -4,7 +4,7 @@ import BreadCrumbs from '@/components/BreadCrumbs.vue'
 import TheFooter from '@/components/TheFooter.vue'
 import TheSubscribe from '@/components/TheSubscribe.vue'
 import ThePagination from '@/components/ThePagination.vue'
-import TheBanners from '@/components/TheBanners.vue'
+import TheBanners from '@/components/TheBanner/TheBanners.vue'
 import ThePosts from '@/components/ThePosts.vue'
 import TheTopics from '@/components/TheTopics.vue'
 </script>

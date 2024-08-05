@@ -1,4 +1,3 @@
-<!-- src/components/Banner.vue -->
 <template>
   <a href="#">
     <div
